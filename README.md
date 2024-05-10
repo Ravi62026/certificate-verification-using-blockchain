@@ -23,4 +23,4 @@ Currently, two official plugins are available:
 8. Project Deployment Lisk For Testing :
    https://certificate-verification-using-blockchain.vercel.app/
 
-Special thanks to @AADESHak007
+Special thanks to [@AADESHak007](https://github.com/AADESHak007)
